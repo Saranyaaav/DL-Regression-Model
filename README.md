@@ -140,7 +140,7 @@ Best Fit line plot:
 
 
 ### New Sample Data Prediction
-<img width="466" height="161" alt="image" src="https://github.com/user-attachments/assets/8a217c80-e37b-4c57-8fbf-d9238a36f0a3" />
+<img width="310" height="71" alt="image" src="https://github.com/user-attachments/assets/61bf0eb9-8cb8-4afc-863b-ce8fe7b70a47" />
 
 
 ## RESULT
